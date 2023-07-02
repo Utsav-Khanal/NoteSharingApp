@@ -1,6 +1,7 @@
 # NoteSharingApp
 1) Create database as notesharingapp.
 2) Import .sql file into database.
+   
 ![login](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/fda88770-9cad-45c7-a217-89bc7bad10f2)
 ![register](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/32f577a6-bf70-44a5-afb9-d82e88502869)
 ![dashboard](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/401b7976-2ecb-4c63-8150-2d3e7ecbb198)
