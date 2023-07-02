@@ -1,7 +1,7 @@
 # NoteSharingApp
-![login](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/c9d7d6bc-e0c6-477a-84b1-0d147a8ed678)
-![register](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/83d0ef37-3572-4d3e-bb75-978562e2bcb4)
-![dashboard](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/62e0af83-d87a-4067-8a27-ad82f94482a5)
-![editProfile](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/d6426ec7-a837-4108-9885-17c9311d3614)
-![uploadNotes](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/91ce95e4-8e6b-4bf6-9dce-251f8e41ef82)
-![viewNotes](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/721b49af-4fcf-4075-bf98-987528ac812a)
+![login](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/fda88770-9cad-45c7-a217-89bc7bad10f2)
+![register](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/32f577a6-bf70-44a5-afb9-d82e88502869)
+![dashboard](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/401b7976-2ecb-4c63-8150-2d3e7ecbb198)
+![editProfile](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/55745f19-244a-4473-86b9-cce1e8ab4f4b)
+![uploadNotes](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/319683d2-c7c5-48fb-b29c-7b298a2a2064)
+![viewNotes](https://github.com/Utsav-Khanal/NoteSharingApp/assets/100432431/0ed70d7c-d7ea-4b8b-bd4b-aba887000e73)
